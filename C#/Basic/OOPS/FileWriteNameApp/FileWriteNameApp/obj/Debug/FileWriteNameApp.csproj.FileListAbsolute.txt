@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\bin\Debug\FileWriteNameApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\bin\Debug\FileWriteNameApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\bin\Debug\FileWriteNameApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\obj\Debug\FileWriteNameApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\obj\Debug\FileWriteNameApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\obj\Debug\FileWriteNameApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\obj\Debug\FileWriteNameApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\FileWriteNameApp\FileWriteNameApp\obj\Debug\FileWriteNameApp.pdb

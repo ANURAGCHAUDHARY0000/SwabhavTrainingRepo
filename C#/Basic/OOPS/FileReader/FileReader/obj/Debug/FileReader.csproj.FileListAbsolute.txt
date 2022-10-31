@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\bin\Debug\FileReader.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\bin\Debug\FileReader.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\bin\Debug\FileReader.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\obj\Debug\FileReader.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\obj\Debug\FileReader.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\obj\Debug\FileReader.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\FileReader\FileReader\obj\Debug\FileReader.pdb

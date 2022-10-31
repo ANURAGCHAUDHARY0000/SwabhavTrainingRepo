@@ -1,0 +1,17 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\AccountUnitTest1.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\AccountUnitTest1.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\AccountLib.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\AccountLib.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\obj\Debug\AccountUnitTest1.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\obj\Debug\AccountUnitTest1.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\obj\Debug\AccountUnitTest1.csproj.CopyComplete
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\obj\Debug\AccountUnitTest1.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\ClassLibrary\AccountSolution\AccountUnitTest1\obj\Debug\AccountUnitTest1.pdb

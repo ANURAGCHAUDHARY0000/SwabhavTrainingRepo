@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToeWinFormsApp\\TicTacToeWinFormsApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToelib\\TicTacToelib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToelib\\TicTacToelib.csproj",
+        "projectName": "TicTacToelib",
+        "projectPath": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToelib\\TicTacToelib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToeWinFormsApp\\TicTacToeWinFormsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToeWinFormsApp\\TicTacToeWinFormsApp.csproj",
+        "projectName": "TicTacToeWinFormsApp",
+        "projectPath": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToeWinFormsApp\\TicTacToeWinFormsApp.csproj",
+        "packagesPath": "C:\\Users\\Anurag\\.nuget\\packages\\",
+        "outputPath": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToeWinFormsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anurag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToelib\\TicTacToelib.csproj": {
+                "projectPath": "D:\\Swabhavtechlab\\C#\\Basic\\OOAD\\TicTacToeSln\\TicTacToelib\\TicTacToelib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

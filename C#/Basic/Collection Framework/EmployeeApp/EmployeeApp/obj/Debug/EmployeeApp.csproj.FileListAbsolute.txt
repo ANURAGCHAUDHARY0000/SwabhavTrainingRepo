@@ -1,0 +1,17 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.AccessControl.dll
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.Permissions.dll
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.Principal.Windows.dll
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.AccessControl.xml
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.Permissions.xml
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\bin\Debug\System.Security.Principal.Windows.xml
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CopyComplete
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

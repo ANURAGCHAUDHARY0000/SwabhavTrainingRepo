@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\bin\Debug\PigDice.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\bin\Debug\PigDice.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\bin\Debug\PigDice.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\obj\Debug\PigDice.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\obj\Debug\PigDice.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\obj\Debug\PigDice.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\obj\Debug\PigDice.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\PigDice\PigDice\obj\Debug\PigDice.pdb

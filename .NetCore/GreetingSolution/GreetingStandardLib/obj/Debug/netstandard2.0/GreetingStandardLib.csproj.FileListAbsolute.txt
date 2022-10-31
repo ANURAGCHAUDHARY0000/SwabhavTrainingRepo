@@ -1,0 +1,10 @@
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\bin\Debug\netstandard2.0\GreetingStandardLib.deps.json
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\bin\Debug\netstandard2.0\GreetingStandardLib.dll
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\bin\Debug\netstandard2.0\GreetingStandardLib.pdb
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.AssemblyInfoInputs.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.AssemblyInfo.cs
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.dll
+D:\Swabhavtechlab\.NetCore\GreetingSolution\GreetingStandardLib\obj\Debug\netstandard2.0\GreetingStandardLib.pdb

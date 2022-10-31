@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "container"></div>
+    <input type = "button" value = "load" id ="type1">
+     
+    <script>
+       var customers = [{id : 101,name : "A",location: "Mumbai"},{
+        id:102, name :"B", location : "Mumbai"}, {id : 103,name : "C",location: "Mumbai"},
+        {id : 104,name : "D",location: "Mumbai"},{id : 105,name : "E",location: "Mumbai"}]
+      
+        customers.forEach((c) => console.log(c.name));
+
+        var mumbai_customers = customers.filter((c) => c.location.toLowerCase() == "mumbai")
+        mumbai_customers.push({id:106,name: "F",location : "mumbai"})
+
+        mumbai_customers.forEach((c) => console.log(c));
+
+        var btnLoad = document.querySelector("#type1");
+        var container = document.querySelector("#container");
+
+        btnLoad.addEventListener("click",()=> {
+        let container1 = ``;
+        customers.forEach(c =>{
+            container1 += `<li> ${c.name}</li>`;
+        });
+        container.innerHTML = container1;
+    })
+    </script>
+</body>
+</html>

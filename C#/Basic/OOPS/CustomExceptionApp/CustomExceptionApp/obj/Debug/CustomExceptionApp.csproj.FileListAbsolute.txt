@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\obj\Debug\CustomExceptionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\obj\Debug\CustomExceptionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\obj\Debug\CustomExceptionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\bin\Debug\CustomExceptionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\bin\Debug\CustomExceptionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\bin\Debug\CustomExceptionApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\obj\Debug\CustomExceptionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\CustomExceptionApp\CustomExceptionApp\obj\Debug\CustomExceptionApp.pdb

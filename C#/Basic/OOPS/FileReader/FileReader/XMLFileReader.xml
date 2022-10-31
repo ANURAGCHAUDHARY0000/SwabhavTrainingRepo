@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Students>
+<s> 
+	<name> Krishna </name>
+	<result> Pass </result>
+</s>
+
+	<s>
+		<name> Shyam </name>
+		<result> Pass </result>
+	</s>	
+	
+<s>
+	<name> Ram </name>
+	<result> Pass </result>
+</s>	
+	
+</Students>

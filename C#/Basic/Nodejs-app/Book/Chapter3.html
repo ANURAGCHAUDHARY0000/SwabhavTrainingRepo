@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<script>
+/*var speed = 10;
+var time = 20;
+alert(speed*time);
+
+var speed = 30;
+var time = 2;
+alert(speed*time);
+
+var speed = 60;
+var time = 4;
+alert(speed*time);
+
+above code is repititive and it makes hard to maintain. */
+
+function showDistance(speed, time) {
+    alert(speed * time);
+}
+
+//showDistance(10,20);
+//showDistance(30,2);
+
+function getDistance(speed,time){
+    var distance = speed * time;
+    if (speed < 0) {
+     alert(distance *= -1);
+   }
+        return distance;
+  }
+
+var myDistance = getDistance(-5, 8);
+</script>    
+</body>
+</html>

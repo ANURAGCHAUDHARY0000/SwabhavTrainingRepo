@@ -1,0 +1,17 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\bin\Debug\net6.0-windows\WinFormsThreadApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\bin\Debug\net6.0-windows\WinFormsThreadApp.deps.json
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\bin\Debug\net6.0-windows\WinFormsThreadApp.runtimeconfig.json
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\bin\Debug\net6.0-windows\WinFormsThreadApp.dll
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\bin\Debug\net6.0-windows\WinFormsThreadApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.Form1.resources
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.csproj.GenerateResource.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.AssemblyInfoInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.AssemblyInfo.cs
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.dll
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\refint\WinFormsThreadApp.dll
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\WinFormsThreadApp.genruntimeconfig.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\WinFormsThreadApp\WinFormsThreadApp\obj\Debug\net6.0-windows\ref\WinFormsThreadApp.dll

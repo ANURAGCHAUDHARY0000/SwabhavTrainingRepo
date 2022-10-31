@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\bin\Debug\TryParse.exe.config
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\bin\Debug\TryParse.exe
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\bin\Debug\TryParse.pdb
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\obj\Debug\TryParse.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\obj\Debug\TryParse.exe
+D:\Swabhavtechlab\C#\Basic\TryParse\TryParse\obj\Debug\TryParse.pdb

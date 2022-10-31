@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\bin\Debug\AccountExceptionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\bin\Debug\AccountExceptionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\bin\Debug\AccountExceptionApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\obj\Debug\AccountExceptionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\obj\Debug\AccountExceptionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\obj\Debug\AccountExceptionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\obj\Debug\AccountExceptionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountExceptionApp\AccountExceptionApp\obj\Debug\AccountExceptionApp.pdb

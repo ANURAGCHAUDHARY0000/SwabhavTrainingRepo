@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <title>Loops</title>
+       <style>
+        body {
+                font-family: "Arial";
+                font-size: 24px;
+                padding: 50px;
+                color: #0099FF;
+        }
+        </style>
+</head>
+<body>
+    <pre>
+    <script>
+
+    // for loop with break statement    
+    var count = 5;
+    function SaySomething() {
+    document.writeln("hello!");
+     }
+    for (var i = 0; i < count; i++) {
+    SaySomething();
+
+    if(i == 2)
+    {
+        break;
+    }
+    }
+    // for loop with continue statement
+
+    var floors = 5;
+    for(var i = 1;i<=floors;i++)
+    {
+        if(i == 2)
+        {
+            //no floors here
+            continue;
+        }
+
+        document.writeln("At floor: "+ i);
+    }
+    //while loop
+    
+    var count = 0;
+    while (count < 5) {
+    document.writeln("looping away!");
+    count++;
+    }
+    // do while loop
+ 
+    var count = 0;
+    do {
+    count++;
+    document.writeln("I don't know what I am doing here!");
+    } while (count < 2);
+
+
+    </script>
+    </pre>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Event Chaining</title>
+ </head>
+<body>
+   <button id = "btnDummy">Submit</button>
+</body>
+<script language="JavaScript" type="text/javascript" src="/Js/jquery-3.6.1.min.js"></script>
+<script>
+$(document).ready(function(){
+  //  $("#btnDummy").mouseover(function (){
+  //       alert("mouse over")
+  //  });
+  //  $("#btnDummy").mouseout(function (){
+   //      alert("mouse out")
+   // });
+   //event Chaining
+   $("#btnDummy").mouseover(function (){
+         alert("mouse over")
+    }).mouseout(function (){
+        alert("mouse out !");
+    });
+});
+</script>
+</html>

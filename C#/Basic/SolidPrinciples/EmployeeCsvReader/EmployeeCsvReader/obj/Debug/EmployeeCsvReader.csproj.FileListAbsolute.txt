@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\bin\Debug\EmployeeCsvReader.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\bin\Debug\EmployeeCsvReader.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\bin\Debug\EmployeeCsvReader.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\obj\Debug\EmployeeCsvReader.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\obj\Debug\EmployeeCsvReader.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\obj\Debug\EmployeeCsvReader.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\obj\Debug\EmployeeCsvReader.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\EmployeeCsvReader\EmployeeCsvReader\obj\Debug\EmployeeCsvReader.pdb

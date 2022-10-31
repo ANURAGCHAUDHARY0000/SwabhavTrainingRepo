@@ -1,0 +1,17 @@
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\WelcomeCoreApp.exe
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\WelcomeCoreApp.deps.json
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\WelcomeCoreApp.runtimeconfig.json
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\WelcomeCoreApp.dll
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\WelcomeCoreApp.pdb
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.AssemblyInfoInputs.cache
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.AssemblyInfo.cs
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.dll
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\refint\WelcomeCoreApp.dll
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.pdb
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.genruntimeconfig.cache
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\ref\WelcomeCoreApp.dll
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\bin\Debug\net6.0\Colorful.Console.dll
+D:\Swabhavtechlab\.NetCore\WelcomeCoreApp\obj\Debug\net6.0\WelcomeCoreApp.csproj.CopyComplete

@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb

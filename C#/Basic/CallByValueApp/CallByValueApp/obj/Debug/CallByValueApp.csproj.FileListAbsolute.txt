@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.exe.config
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.exe
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.pdb
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.exe
+D:\Swabhavtechlab\C#\Basic\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.pdb

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Document</title>
+</head>
+<body>
+    <script>
+        var dataService = function(){
+            var service = {};
+            service.getData = function(no){
+                return new Promise(function(resolve,reject){
+                    const req = new XMLHttpRequest();
+                    req.addEventListener("load",function(){
+                        var stringResponse = this.responseText;
+                        resolve(JSON.parse(stringResponse));
+                    });
+                    req.open("GET","http://numbersapi.com/"+no+"?json");
+                    req.send();
+                });
+            }
+            return service;
+        }();
+        dataService.getData(10)
+                   .then(function(resp){
+                    console.log(resp.text)
+                    console.log("result #1");
+
+                    return dataService.getData(20);
+                   })
+                   .then(function(resp){
+                    console.log(resp.text)
+                    console.log("result #2");
+
+                    return dataService.getData(30);
+                   })
+                   .then(function(resp){
+                    console.log(resp.text)
+                    console.log("result #3");
+
+                   console.log("end of all calls");
+                   })
+                   .catch(function(errResp){
+                    console.log(errResp)
+                   })
+                   
+
+        console.log("end of script");
+                  
+    </script>
+</body>
+</html>

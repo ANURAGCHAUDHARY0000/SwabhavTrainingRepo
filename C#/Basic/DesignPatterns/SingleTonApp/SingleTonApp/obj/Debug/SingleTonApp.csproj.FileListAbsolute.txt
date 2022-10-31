@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\bin\Debug\SingleTonApp.exe.config
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\bin\Debug\SingleTonApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\bin\Debug\SingleTonApp.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\obj\Debug\SingleTonApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\obj\Debug\SingleTonApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\obj\Debug\SingleTonApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\obj\Debug\SingleTonApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SingleTonApp\SingleTonApp\obj\Debug\SingleTonApp.pdb

@@ -1,0 +1,26 @@
+<html>
+    <body>
+        <h2> Observer </h2>
+        <img src = "1234.jpg" id = "image" width = "650" height = "350" 
+        alt = "EDUCATION"   hspace= 200 vspace = 100 style = "display: none">
+
+        <button type = "button" value = "show" id ="type1">
+        <button type = "button" value = "hide" id ="type2">
+      
+    <script>    
+    var img = document.querySelector("#image")
+   
+    var button1 = document.querySelector("#type1");
+    var button2 = document.querySelector("#type2");
+
+    button1.addEventListener("click",() =>{
+        img.style.display = "inline-block";
+    });
+  
+    button2.addEventListener("click",() =>{
+        img.style.display = "none";
+    });
+
+    </script>
+</body>
+</html>        

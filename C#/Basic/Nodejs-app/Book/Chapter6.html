@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Timers</title>
+    <style>
+        body {
+                font-family: "Arial";
+                font-size: 54px;
+                padding: 50px;
+                color: #0099FF;
+        }
+    </style>
+</head>
+<body>
+    <pre>
+    <script>
+    //setTimeout  runs code after a specified period of time.
+    function Greet() {
+    document.writeln("Hello GoodMorning");
+    }
+    var timeID = setTimeout(Greet, 2000);
+   //   clearTimeout(timeID);
+        
+   //setInterval runs code repeatedly after some interval
+   var Interval =  setInterval(Greet,1000);
+  // clearInterval(Interval);
+  
+    </script>
+    </pre>   
+    </body>
+</html>

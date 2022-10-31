@@ -1,0 +1,11 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\bin\Debug\ConsoleClientApp.exe.config
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\bin\Debug\ConsoleClientApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\bin\Debug\ConsoleClientApp.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\bin\Debug\FactoryLib.dll
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\bin\Debug\FactoryLib.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.csproj.CopyComplete
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\SimpleFactorySln\ConsoleClientApp\obj\Debug\ConsoleClientApp.pdb

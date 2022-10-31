@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\bin\Debug\PreDefinedDelegatesApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\bin\Debug\PreDefinedDelegatesApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\bin\Debug\PreDefinedDelegatesApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\obj\Debug\PreDefinedDelegatesApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\obj\Debug\PreDefinedDelegatesApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\obj\Debug\PreDefinedDelegatesApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\obj\Debug\PreDefinedDelegatesApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\PreDefinedDelegatesApp\PreDefinedDelegatesApp\obj\Debug\PreDefinedDelegatesApp.pdb

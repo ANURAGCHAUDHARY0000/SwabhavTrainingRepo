@@ -1,0 +1,41 @@
+﻿@using StudentMVCApp.Models.ViewModel
+@model EditVm
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Edit", "Student", FormMethod.Post))
+        {
+            <p>
+                StuId : @Html.TextBoxFor(m => m.stu.Id)
+            </p>
+            <p>
+                FirstName : @Html.TextBoxFor(m => m.stu.FirstName)
+            </p>
+            <p>
+                LastName : @Html.TextBoxFor(m => m.stu.LastName)
+            </p>
+            <p>
+                CGPA : @Html.TextBoxFor(m => m.stu.CGPA)
+            </p>
+
+            <input type="submit"/>
+
+          
+        }
+    </div>
+</body>
+</html>
+
+

@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\bin\Debug\CRUDOprUsingAdo.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\bin\Debug\CRUDOprUsingAdo.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\bin\Debug\CRUDOprUsingAdo.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\obj\Debug\CRUDOprUsingAdo.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\obj\Debug\CRUDOprUsingAdo.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\obj\Debug\CRUDOprUsingAdo.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\obj\Debug\CRUDOprUsingAdo.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\CRUDOprUsingAdo\CRUDOprUsingAdo\obj\Debug\CRUDOprUsingAdo.pdb

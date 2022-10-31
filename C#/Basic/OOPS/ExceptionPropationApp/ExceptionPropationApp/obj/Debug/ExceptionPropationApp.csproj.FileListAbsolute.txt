@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\bin\Debug\ExceptionPropationApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\bin\Debug\ExceptionPropationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\bin\Debug\ExceptionPropationApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\obj\Debug\ExceptionPropationApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\obj\Debug\ExceptionPropationApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\obj\Debug\ExceptionPropationApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\obj\Debug\ExceptionPropationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\ExceptionPropationApp\ExceptionPropationApp\obj\Debug\ExceptionPropationApp.pdb

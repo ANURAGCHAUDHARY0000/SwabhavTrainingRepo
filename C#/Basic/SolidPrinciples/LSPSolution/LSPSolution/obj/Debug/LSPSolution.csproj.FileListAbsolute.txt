@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\bin\Debug\LSPSolution.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\bin\Debug\LSPSolution.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\bin\Debug\LSPSolution.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\obj\Debug\LSPSolution.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\obj\Debug\LSPSolution.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\obj\Debug\LSPSolution.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\obj\Debug\LSPSolution.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\LSPSolution\LSPSolution\obj\Debug\LSPSolution.pdb

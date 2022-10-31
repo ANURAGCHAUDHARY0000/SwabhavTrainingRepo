@@ -1,0 +1,46 @@
+﻿@using WebApplicationMVC.Models;
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm())
+        {
+            <br><br>
+            <p>
+                Enter User Name : @Html.TextBoxFor(x => x.UserName, new { Class = "form-control" })
+            </p>
+            <p>
+                Enter User Password: @Html.PasswordFor(x => x.UserPassword, new { Class = "form-control" })
+            </p>
+            <p>
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </p>
+            <p>
+                @if (Model.Message != null)
+                {
+                    if (Model.Message == "Successfull Login")
+                    {
+                    <p class="alert alert-success" role="alert"> @Model.Message</p>
+                }
+
+                else if (Model.Message == "Wrong credentials")
+                {
+                    <p class="alert alert-danger" role="alert"> @Model.Message</p>
+                }
+            }
+                </p>
+            }
+    </div>
+</body>
+</html>

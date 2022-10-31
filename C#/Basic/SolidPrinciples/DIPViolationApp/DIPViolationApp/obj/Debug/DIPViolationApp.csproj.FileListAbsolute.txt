@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\bin\Debug\DIPViolationApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPViolationApp\DIPViolationApp\obj\Debug\DIPViolationApp.pdb

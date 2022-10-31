@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Chaining</title>
+    <style>
+        .dummy{
+            background-color: white;
+            border: 1px solid black;
+            height: 150px;
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div id = "Content">
+     Sample Text </br>  
+     Sample Text </br>  
+     Sample Text </br>  
+     Sample Text 
+    </div>  
+</body>
+<script language="JavaScript" type="text/javascript" src="/Js/jquery-3.6.1.min.js"></script>
+<script>
+$(document).ready(function(){
+ //  $("#Content").addClass('dummy'); //jquery identifying the id again and again and executing the method
+ //  $("#Content").css('color','red');
+ //  $("#Content").fadeIn('slow');
+
+ //method chaining 
+ $('#Content').addClass('dummy') //jquery identifying the id once and executing the method
+               .css('color','red')
+               .fadeIn('slow')
+
+});
+
+</script>
+</html>

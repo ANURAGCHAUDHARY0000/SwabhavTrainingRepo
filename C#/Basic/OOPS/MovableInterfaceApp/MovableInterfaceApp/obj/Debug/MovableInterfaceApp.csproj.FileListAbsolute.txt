@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\bin\Debug\MovableInterfaceApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\bin\Debug\MovableInterfaceApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\bin\Debug\MovableInterfaceApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\obj\Debug\MovableInterfaceApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\obj\Debug\MovableInterfaceApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\obj\Debug\MovableInterfaceApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\obj\Debug\MovableInterfaceApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MovableInterfaceApp\MovableInterfaceApp\obj\Debug\MovableInterfaceApp.pdb

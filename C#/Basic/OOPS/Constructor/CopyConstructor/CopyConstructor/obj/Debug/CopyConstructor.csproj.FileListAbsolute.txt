@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\bin\Debug\CopyConstructor.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\bin\Debug\CopyConstructor.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\bin\Debug\CopyConstructor.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.pdb

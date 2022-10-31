@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\bin\Debug\OCPSolutionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\bin\Debug\OCPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\bin\Debug\OCPSolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\obj\Debug\OCPSolutionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\obj\Debug\OCPSolutionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\obj\Debug\OCPSolutionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\obj\Debug\OCPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\OpenClosePrincipleSolution\OCPSolutionApp\obj\Debug\OCPSolutionApp.pdb

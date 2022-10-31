@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\obj\Debug\EmployeeLinqApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\obj\Debug\EmployeeLinqApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\obj\Debug\EmployeeLinqApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\bin\Debug\EmployeeLinqApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\bin\Debug\EmployeeLinqApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\bin\Debug\EmployeeLinqApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\obj\Debug\EmployeeLinqApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\EmployeeLinqApp\EmployeeLinqApp\obj\Debug\EmployeeLinqApp.pdb

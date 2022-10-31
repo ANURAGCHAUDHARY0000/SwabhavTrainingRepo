@@ -1,0 +1,34 @@
+<html>
+    <body>
+        <script>
+          //  var funnyGuy={}; //creates empty object
+            //dot notation approach1
+          //  funnyGuy.firstName = "Kunal";
+          //  funnyGuy.lastName = "Sarode"
+
+            //square bracket notation approch 2
+            // var funnyGuy = {};
+            // funnyGuy["firstName"] = "Kunal";
+            // funnyGuy["lastName"] = "Sarode";
+       
+            //approch 3
+            var funnyGuy = 
+            {
+            firstName: "Kunal",
+            lastName: "Sarode",
+            
+            getName: function() {
+            return "Name is: " + this.firstName + " " + this.lastName;
+            }
+            };
+
+            document.writeln(funnyGuy.getName());
+            
+        
+        </script>
+        
+        
+    </body>
+</html>
+
+

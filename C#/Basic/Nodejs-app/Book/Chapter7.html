@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <title>Variable Scope</title>
+       <style>
+        body {
+                font-family: "Arial";
+                font-size: 54px;
+                padding: 50px;
+                color: #0099FF;
+        }
+    </style>
+</head>
+<body>
+    <pre>
+    <script>
+     var i = 10;  //global variable it's accessible everywhere
+     var1 = 20;   //global variable
+     function show(){
+        var2 = 30;  //global variable
+        document.writeln(i + var1);
+     }   
+     show();
+     document.writeln(i + var1 + var2);
+
+     //Local variable
+     function display()
+     {
+        var j = "Ram";
+        document.writeln(j);
+     }
+     
+     display();
+     document.writeln(j);
+
+     
+    </script>
+   </pre>
+</body>
+</html>

@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\bin\Debug\AccountSerialisationApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\bin\Debug\AccountSerialisationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\bin\Debug\AccountSerialisationApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\obj\Debug\AccountSerialisationApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\obj\Debug\AccountSerialisationApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\obj\Debug\AccountSerialisationApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\obj\Debug\AccountSerialisationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountSerialisationApp\AccountSerialisationApp\obj\Debug\AccountSerialisationApp.pdb

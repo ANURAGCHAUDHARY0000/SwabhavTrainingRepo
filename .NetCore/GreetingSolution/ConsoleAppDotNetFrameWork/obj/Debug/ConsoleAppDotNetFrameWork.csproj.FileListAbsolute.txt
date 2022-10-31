@@ -1,0 +1,11 @@
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\bin\Debug\ConsoleAppDotNetFrameWork.exe.config
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\bin\Debug\ConsoleAppDotNetFrameWork.exe
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\bin\Debug\ConsoleAppDotNetFrameWork.pdb
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\bin\Debug\GreetingStandardLib.dll
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\bin\Debug\GreetingStandardLib.pdb
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.csproj.CopyComplete
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.exe
+D:\Swabhavtechlab\.NetCore\GreetingSolution\ConsoleAppDotNetFrameWork\obj\Debug\ConsoleAppDotNetFrameWork.pdb

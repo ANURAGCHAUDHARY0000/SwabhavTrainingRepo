@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\bin\Debug\OddAndEven.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\bin\Debug\OddAndEven.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\bin\Debug\OddAndEven.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\obj\Debug\OddAndEven.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\obj\Debug\OddAndEven.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\obj\Debug\OddAndEven.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\obj\Debug\OddAndEven.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\OddAndEven\OddAndEven\obj\Debug\OddAndEven.pdb

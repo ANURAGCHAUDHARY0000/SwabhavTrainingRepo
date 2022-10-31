@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\bin\Debug\CalculatorEventApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\CalculatorEventApp\CalculatorEventApp\obj\Debug\CalculatorEventApp.pdb

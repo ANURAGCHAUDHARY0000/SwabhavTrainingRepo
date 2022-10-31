@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\obj\Debug\TicTacConsoleApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\obj\Debug\TicTacConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\obj\Debug\TicTacConsoleApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\bin\Debug\TicTacCansoleApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\bin\Debug\TicTacCansoleApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\bin\Debug\TicTacCansoleApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\obj\Debug\TicTacCansoleApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeUnitTestingAppSolution\TicTacCansoleApp\obj\Debug\TicTacCansoleApp.pdb

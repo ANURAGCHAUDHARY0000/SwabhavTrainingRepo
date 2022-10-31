@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Enter Number: <input type="text" id = "number"value="">
+    <button type="button" id="facts" style="color: #ff0000;  padding: 10px; margin-right:50%;   font: bold 14px Arial;">Facts</button>
+    <br></br>
+    <span id="message"> </span>
+    <script>
+        var numberInput = document.querySelector("#number");
+        var btn = document.querySelector("#facts");
+        var message = document.querySelector("#message");
+        btn.addEventListener("click",getFactAjax);
+        function getFactAjax(){
+        let number = numberInput.value;
+        let req = new XMLHttpRequest();
+        req.open('GET','http://numbersapi.com/'+number);
+        req.onload = function(){
+            message.innerHTML = this.responseText;
+        }
+        req.send();
+        }
+    </script>
+</body>
+</html>

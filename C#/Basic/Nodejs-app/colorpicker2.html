@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h2>Color Picker</h2>
+    <label for="Color">Choose a Color:</label>
+    <select name="Color" id="select_color">
+		<option value="#fff">--Select Color--</option>
+		<option value="#f66281" >Red</option>
+		<option value="#6bf67b">Green</option>
+		<option value="#878ffa">Blue</option>
+		
+	</select>   
+    <button type="button" id = "btnHello" style="font: bold 14px Arial;">OK</button>
+    <script>
+        var btn1 = document.querySelector("#btnHello");
+       
+        btn1.addEventListener("click",ColorChanger);
+        function ColorChanger(e){
+            var color = document.querySelector("#select_color")
+             document.bgColor = color.value;
+             console.log(color.value);
+        }
+    </script>
+</body>
+</html>

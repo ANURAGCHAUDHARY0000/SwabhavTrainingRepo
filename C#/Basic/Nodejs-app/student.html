@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       table{
+        border: 1px solid;
+        border-collapse: collapse;
+
+       }
+       table th,td{
+        border: 1px solid;
+
+       }
+    </style>
+</head>
+
+<body>
+    <form action="" id="myform">
+        <label>FirstName</label>
+        <input type="text" id="fname" placeholder="Enter Student's fname" >
+        <br> <br>
+        <label>LastName</label>
+        <input type="text" id="lname" placeholder="Enter Student's lname" >
+        <br> <br>
+        <button type="button" id="add" >AddStudent</button>
+        <p id=mgg></p>
+        <br> <br>
+       
+        <p>
+        <h3>Student's Table</h3>  
+        </p>
+        <div id=table></div>
+        <p>
+        <h3>Student's List</h3>
+        </p>
+       
+        <div id="container" ></div>
+
+
+    </form>
+    <script>
+        var msg = document.querySelector("#mgg");
+        var table1 = document.querySelector("#table");
+        var id = Date.now();
+        var container = document.querySelector("#container")
+        var btn = document.querySelector("#add");
+        var students = [];
+        if (localStorage['aurionpro.student']) {
+            students = JSON.parse(localStorage['aurionpro.student'])
+            renderTable();
+            msg.innerHTML = "Total students: " + students.length;
+        }
+        btn.addEventListener("click", () => {
+            var firstName = document.querySelector("#fname").value;
+            var lastName = document.querySelector("#lname").value;
+            var student = {};
+            const buttons = document.createElement("button");
+            
+            student.id = id;
+            student.firstName = firstName;
+            student.lastName = lastName;
+            students.push(student)
+            localStorage['aurionpro.student'] = JSON.stringify(students);
+            
+            renderTable();
+        });
+        function renderTable() {
+            var container1 = ``;
+            students.forEach(c => {
+                container1 += `<li>${c.id}, ${c.firstName} ${c.lastName}</li>`
+            });
+            container.innerHTML = container1;
+            var table = loadTable(students);
+            table1.innerHTML = table;
+        }
+        function loadTable(customer) {
+            var table = `
+<table>
+    <thead>
+        <tr>
+            <th colspan = "1">Id</th>
+            <th colspan = "1">FirstName</th>
+            <th colspan = "1">LastName</th>
+        </tr>
+    </thead>
+    <tbody>
+        ${customer.map(getCustomerRow).join('')}
+    </tbody>
+</table>`
+            return table;
+        }
+        function getCustomerRow(c) {
+              return `<tr>
+                <td> ${c.id}</td>
+                <td> ${c.firstName}</td>
+                <td> ${c.lastName}</td>
+                <td><input type = "button" id = ${c.id} onclick = "fnDelete(${c.id})"</td>
+
+                    
+            </tr>`
+        }
+        
+        function fnDelete(id)
+        {
+            //alert("tried deleting" + id)
+            students = students.filter (s =>( s.id != id))
+            renderTable();
+           // console.log(localStorage['aurionpro.student'])   
+           
+           // console.log( localStorage['aurionpro.student'].id)
+         
+        }
+
+        
+
+
+    </script>
+</body>
+
+</html>

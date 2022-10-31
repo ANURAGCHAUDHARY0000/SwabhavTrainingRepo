@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\bin\Debug\EngineeringCollegeApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\bin\Debug\EngineeringCollegeApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\bin\Debug\EngineeringCollegeApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\obj\Debug\EngineeringCollegeApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\obj\Debug\EngineeringCollegeApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\obj\Debug\EngineeringCollegeApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\obj\Debug\EngineeringCollegeApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\EngineeringCollegeApp\EngineeringCollegeApp\obj\Debug\EngineeringCollegeApp.pdb

@@ -1,0 +1,62 @@
+﻿@using StudentMVCApp.Models.ViewModel ;
+@model HomeVm
+
+@{
+    ViewBag.Title = "Home";
+
+}
+
+
+<html>
+<body>
+    <h2>Student Count is: @Model.StudentCount</h2>
+    <br />
+    <h3>@Html.ActionLink("AddStudent", "Add")
+       
+    </h3>
+    <br /><br />
+    <table border="1">
+        <tr>
+            <th>
+                StudentId
+            </th>
+            <th>
+                FirstName
+            </th>
+            <th>
+                LastName
+            </th>
+            <th>
+                CGPA
+            </th>
+            
+        </tr>
+        @foreach (var stu in Model.Students)
+        {
+            <tr>
+                <td>
+                    @stu.Id
+                </td>
+                <td>
+                    @stu.FirstName
+                </td>
+                <td>
+                    @stu.LastName
+                </td>
+                <td>
+                    @stu.CGPA
+                </td>
+                <td>
+                    @Html.ActionLink("edit", "Index")
+                    @Html.ActionLink("delete", "Delete")
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+
+</html>
+
+
+
+

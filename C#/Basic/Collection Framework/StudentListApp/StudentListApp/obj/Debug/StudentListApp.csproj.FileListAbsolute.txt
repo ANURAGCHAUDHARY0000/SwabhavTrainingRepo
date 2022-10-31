@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\bin\Debug\StudentListApp.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\obj\Debug\StudentListApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\StudentListApp\StudentListApp\obj\Debug\StudentListApp.pdb

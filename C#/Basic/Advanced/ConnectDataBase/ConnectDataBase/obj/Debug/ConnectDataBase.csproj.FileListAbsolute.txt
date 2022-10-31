@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.pdb

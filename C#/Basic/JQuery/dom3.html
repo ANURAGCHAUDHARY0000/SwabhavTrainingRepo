@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
+</head>
+<body>    
+    <div class="Container">
+        
+        <button type="button" class="button-outline-primary">Render</button>
+        <button type = "button" class="button-outline-primary">
+        Primary
+        <span class = "badge text-bg-secondary">4</span>
+    </button>
+    </div>
+    
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src = "/Js/domjquery2.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    $(document).click(function(){
+    var msg = " ";
+    for(var i =1;i<=6;i++)
+    {
+        msg += "<h"+i+">Welcome to jQuery " 
+        +"<span class=badge bg-secondary>JQuery</span></h" + i + ">";
+    }
+          $(".Container").html(msg).css('color' , 'red').fadeToggle(msg);
+                        
+         
+});
+</script>
+</html>

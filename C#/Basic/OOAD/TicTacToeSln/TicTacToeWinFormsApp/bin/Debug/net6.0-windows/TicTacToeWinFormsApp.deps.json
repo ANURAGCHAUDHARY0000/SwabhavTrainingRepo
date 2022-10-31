@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TicTacToeWinFormsApp/1.0.0": {
+        "dependencies": {
+          "TicTacToelib": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToeWinFormsApp.dll": {}
+        }
+      },
+      "TicTacToelib/1.0.0": {
+        "runtime": {
+          "TicTacToelib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToeWinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToelib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

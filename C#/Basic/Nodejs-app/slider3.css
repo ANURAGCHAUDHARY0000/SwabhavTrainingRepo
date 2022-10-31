@@ -1,0 +1,25 @@
+.structure{
+    width:  50%;
+    background-color:cyan;
+    margin: auto;
+    min-height: 50vh;
+    padding-top: 5%;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+#btncontainer {
+    margin-top: 5%;
+}
+
+.structure1{
+    width:  50%;
+    background-color:cyan;
+      margin: auto;
+    min-height: 50vh;
+    padding-top: 5%;
+    color: black;
+}

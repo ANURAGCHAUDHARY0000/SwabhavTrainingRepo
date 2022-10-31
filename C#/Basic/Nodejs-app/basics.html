@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Document</title>
+</head>
+<body>
+       <script>
+        /* window is a Global / root Object */
+      console.log(window)
+      console.log(this)
+      console.log(window == this) //true
+      window.alert("Hello")
+      
+      if(confirm("are you all right?")){
+        console.log("Happy to hear that ");
+      }
+     
+      console.log(typeof(alert)); //  function
+      console.log(typeof(window)); //  object
+      console.log(typeof(document)); // object
+      console.log(typeof(console));  // object
+      console.log(typeof(location)); // object
+
+      var userName;
+      console.log(typeof(userName)); //undefined
+
+      userName = "Krishna"
+      console.log(window.userName == this.userName); //true
+      console.log(typeof(userName));
+
+      userName = 100;
+      console.log(typeof(userName));   //number
+
+      userName = 10 > 5;
+      console.log(typeof(userName));   //boolean
+
+      userName = function(){
+        console.log("inside function");
+      }
+       
+      console.log(typeof(userName));   //function
+      userName();
+
+
+      //object in js
+
+      userName = {
+             firstName: "A",
+             lastName : "B"
+      }
+
+      console.log(typeof(userName));  //object
+      console.log(typeof(lastName));  //undefined
+      //accessing the member of object
+      console.log(userName.firstName); //A
+      
+
+
+      </script>
+</body>
+</html>

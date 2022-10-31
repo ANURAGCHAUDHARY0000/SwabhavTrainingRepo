@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\bin\Debug\MovieStoreApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\bin\Debug\MovieStoreApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\bin\Debug\MovieStoreApp.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\obj\Debug\MovieStoreApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\obj\Debug\MovieStoreApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\MovieStoreApp\MovieStoreApp\obj\Debug\MovieStoreApp.pdb

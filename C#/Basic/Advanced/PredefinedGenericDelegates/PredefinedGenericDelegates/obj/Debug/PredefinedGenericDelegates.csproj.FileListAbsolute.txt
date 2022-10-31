@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\bin\Debug\PredefinedGenericDelegates.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\bin\Debug\PredefinedGenericDelegates.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\bin\Debug\PredefinedGenericDelegates.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\obj\Debug\PredefinedGenericDelegates.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\obj\Debug\PredefinedGenericDelegates.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\obj\Debug\PredefinedGenericDelegates.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\obj\Debug\PredefinedGenericDelegates.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\PredefinedGenericDelegates\PredefinedGenericDelegates\obj\Debug\PredefinedGenericDelegates.pdb

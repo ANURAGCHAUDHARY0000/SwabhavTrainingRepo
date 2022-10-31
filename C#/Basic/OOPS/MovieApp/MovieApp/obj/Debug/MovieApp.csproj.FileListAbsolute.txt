@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MovieApp\MovieApp\obj\Debug\MovieApp.pdb

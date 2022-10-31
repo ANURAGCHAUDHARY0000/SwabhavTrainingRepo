@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\bin\Debug\ConsoleFormApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\bin\Debug\ConsoleFormApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\bin\Debug\ConsoleFormApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\obj\Debug\ConsoleFormApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\obj\Debug\ConsoleFormApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\obj\Debug\ConsoleFormApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\obj\Debug\ConsoleFormApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleFormApp\ConsoleFormApp\obj\Debug\ConsoleFormApp.pdb

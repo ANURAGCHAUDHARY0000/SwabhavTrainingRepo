@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\bin\Debug\CompositeFolderApp.exe.config
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\bin\Debug\CompositeFolderApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\bin\Debug\CompositeFolderApp.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\obj\Debug\CompositeFolderApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\obj\Debug\CompositeFolderApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\obj\Debug\CompositeFolderApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\obj\Debug\CompositeFolderApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\CompositeFolderApp\CompositeFolderApp\obj\Debug\CompositeFolderApp.pdb

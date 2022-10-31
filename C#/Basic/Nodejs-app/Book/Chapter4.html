@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>If /Else </title>
+        <style>
+        body {
+                font-family: "Arial";
+                font-size: 54px;
+                padding: 50px;
+                color: #0099FF;
+        }
+        </style>
+</head>
+<body>
+    <pre>
+    <script>
+     var lunchTime = "true";
+     if(lunchTime)
+     {
+     document.writeln("You can eat");
+     }
+     else{
+     document.writeln("You can'nt eat");
+     }
+
+
+     var temperature = 22;
+
+     if(temperature > 30)
+     {
+        document.writeln("It's hot");
+     }
+     else
+     {
+        document.writeln("It's gonna be cold");
+     }
+
+
+     
+    var xPos = 300;
+    var yPos = 150;
+    function SendWarning( X, Y) {
+    if ((X < xPos) && (Y < yPos)) {
+    document.writeln("Adjust the position");
+    } else {
+     document.writeln("Things are fine!");
+    }
+    }
+
+    SendWarning(300, 500);
+    
+    
+
+    
+
+    </script>
+    </pre>
+</body>
+</html>

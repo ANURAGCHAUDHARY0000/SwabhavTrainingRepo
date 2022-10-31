@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\bin\Debug\ReturningArray.exe.config
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\bin\Debug\ReturningArray.exe
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\bin\Debug\ReturningArray.pdb
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\obj\Debug\ReturningArray.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\obj\Debug\ReturningArray.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\obj\Debug\ReturningArray.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\obj\Debug\ReturningArray.exe
+D:\Swabhavtechlab\C#\Basic\ReturningArray\ReturningArray\obj\Debug\ReturningArray.pdb

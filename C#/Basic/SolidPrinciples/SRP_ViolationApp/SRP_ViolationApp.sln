@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_ViolationApp", "SRP_ViolationApp\SRP_ViolationApp.csproj", "{35DB29B4-75A6-4002-A95D-D323E588E199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DB29B4-75A6-4002-A95D-D323E588E199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DB29B4-75A6-4002-A95D-D323E588E199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DB29B4-75A6-4002-A95D-D323E588E199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DB29B4-75A6-4002-A95D-D323E588E199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331B0DB8-6326-48B5-9284-859F9731FCA6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\bin\Debug\DIPSolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\DIPSolutionApp\DIPSolutionApp\obj\Debug\DIPSolutionApp.pdb

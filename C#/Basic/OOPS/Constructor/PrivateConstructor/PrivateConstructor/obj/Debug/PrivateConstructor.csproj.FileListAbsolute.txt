@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Constructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.pdb

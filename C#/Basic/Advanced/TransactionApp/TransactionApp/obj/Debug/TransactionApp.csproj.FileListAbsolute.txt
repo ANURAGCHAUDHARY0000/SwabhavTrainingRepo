@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\bin\Debug\TransactionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\bin\Debug\TransactionApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\bin\Debug\TransactionApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\obj\Debug\TransactionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\obj\Debug\TransactionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\obj\Debug\TransactionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\obj\Debug\TransactionApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\TransactionApp\TransactionApp\obj\Debug\TransactionApp.pdb

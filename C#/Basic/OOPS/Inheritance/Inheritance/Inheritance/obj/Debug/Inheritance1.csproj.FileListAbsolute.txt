@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance1.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance1.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance1.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

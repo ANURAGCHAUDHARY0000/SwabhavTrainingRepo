@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountApp\AccountApp\obj\Debug\AccountApp.pdb

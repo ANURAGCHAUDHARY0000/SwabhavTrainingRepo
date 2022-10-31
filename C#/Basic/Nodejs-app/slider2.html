@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+<div id = "btncontainer">
+</div>
+<input type = "range" value = "47" min = "0" max = "100" id = "slider">
+<p>Select Range</p>
+<p id = "msg"></p>
+<script >
+
+var slider = document.querySelector('#slider');
+var message = document.querySelector('#msg');
+var container = document.querySelector('#btncontainer');
+message.innerHTML = slider.value;
+slider.addEventListener('input',function(){
+    container.innerHTML = "";
+  
+for(let i =1; i<= slider.value; i++)
+{
+    const buttons = document.createElement("button");
+    buttons.innerHTML = i;
+    container.appendChild(buttons);
+}
+})
+</script>
+</body>
+</html>

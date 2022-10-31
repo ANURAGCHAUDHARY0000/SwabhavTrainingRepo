@@ -1,0 +1,6 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\bin\Debug\ExternalLib.dll
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\bin\Debug\ExternalLib.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\obj\Debug\ExternalLib.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\obj\Debug\ExternalLib.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\obj\Debug\ExternalLib.dll
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ExternalLib\obj\Debug\ExternalLib.pdb

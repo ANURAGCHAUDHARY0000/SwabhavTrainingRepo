@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\bin\Debug\ISPSolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\ISPSolutionApp\ISPSolutionApp\obj\Debug\ISPSolutionApp.pdb

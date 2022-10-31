@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\bin\Debug\StringImmutableApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\StringImmutableApp\StringImmutableApp\obj\Debug\StringImmutableApp.pdb

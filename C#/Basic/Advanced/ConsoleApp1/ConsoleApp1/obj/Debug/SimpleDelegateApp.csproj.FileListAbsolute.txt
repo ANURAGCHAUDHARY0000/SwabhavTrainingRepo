@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\obj\Debug\SimpleDelegateApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\obj\Debug\SimpleDelegateApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\obj\Debug\SimpleDelegateApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

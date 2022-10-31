@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\bin\Debug\ProductEncapApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\bin\Debug\ProductEncapApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\bin\Debug\ProductEncapApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\obj\Debug\ProductEncapApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\obj\Debug\ProductEncapApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\obj\Debug\ProductEncapApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\obj\Debug\ProductEncapApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\ProductEncapApp\ProductEncapApp\obj\Debug\ProductEncapApp.pdb

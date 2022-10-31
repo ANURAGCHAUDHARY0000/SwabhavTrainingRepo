@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\bin\Debug\AccountEqualityApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AccountEqualityApp\AccountEqualityApp\obj\Debug\AccountEqualityApp.pdb

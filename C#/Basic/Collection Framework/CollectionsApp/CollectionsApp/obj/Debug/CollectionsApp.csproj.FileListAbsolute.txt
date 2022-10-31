@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.pdb

@@ -1,0 +1,11 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\bin\Debug\ShoppingApp.exe.config
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\bin\Debug\ShoppingApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\bin\Debug\ShoppingApp.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\bin\Debug\ExternalLib.dll
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\bin\Debug\ExternalLib.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.csproj.CopyComplete
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\AdapterPatternSln\ShoppingApp\obj\Debug\ShoppingApp.pdb

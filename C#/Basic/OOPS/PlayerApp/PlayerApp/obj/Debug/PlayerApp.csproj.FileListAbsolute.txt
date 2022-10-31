@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\bin\Debug\PlayerApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\obj\Debug\PlayerApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\PlayerApp\PlayerApp\obj\Debug\PlayerApp.pdb

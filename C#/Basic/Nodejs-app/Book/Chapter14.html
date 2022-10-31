@@ -1,0 +1,36 @@
+<html>
+    <body>
+        <script>
+            var groceries = ["Milk", "Eggs", "Frosted Flakes", "Salami","Juice"];
+            document.write("Array using for loop:");
+               for (let i = 0; i < groceries.length; i++) {
+                const element = groceries[i];
+                document.writeln("<br>"+element);               
+            }
+            //Adding item in an array
+            groceries.push("cookies");
+            groceries.push("banana");
+
+            for (let i = 0; i < groceries.length; i++) {
+                const element = groceries[i];
+                document.writeln("<br>"+element);               
+            }
+
+            // Finding items in an array
+            var result = groceries.indexOf("Eggs",0);
+            document.writeln("<br>"+result);
+
+            //removing last item
+            var lastItem=groceries.pop();
+            document.writeln("<br>Removed last item from array:");
+            document.writeln(lastItem);
+
+            //removing first item
+            var firstItem = groceries.shift();
+            document.writeln("<br>Removed first item from array:");
+            document.writeln(firstItem);
+        </script>
+        
+        
+    </body>
+</html>

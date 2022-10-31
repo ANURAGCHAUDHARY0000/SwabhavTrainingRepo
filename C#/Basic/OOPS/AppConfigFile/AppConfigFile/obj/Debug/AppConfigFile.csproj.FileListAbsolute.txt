@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\bin\Debug\AppConfigFile.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\bin\Debug\AppConfigFile.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\bin\Debug\AppConfigFile.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\obj\Debug\AppConfigFile.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\obj\Debug\AppConfigFile.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\obj\Debug\AppConfigFile.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\obj\Debug\AppConfigFile.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\AppConfigFile\AppConfigFile\obj\Debug\AppConfigFile.pdb

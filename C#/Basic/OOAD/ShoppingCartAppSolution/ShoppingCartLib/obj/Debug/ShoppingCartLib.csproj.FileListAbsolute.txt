@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\bin\Debug\ShoppingCartLib.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\bin\Debug\ShoppingCartLib.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\bin\Debug\ShoppingCartLib.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\obj\Debug\ShoppingCartLib.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\obj\Debug\ShoppingCartLib.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\obj\Debug\ShoppingCartLib.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\obj\Debug\ShoppingCartLib.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\ShoppingCartAppSolution\ShoppingCartLib\obj\Debug\ShoppingCartLib.pdb

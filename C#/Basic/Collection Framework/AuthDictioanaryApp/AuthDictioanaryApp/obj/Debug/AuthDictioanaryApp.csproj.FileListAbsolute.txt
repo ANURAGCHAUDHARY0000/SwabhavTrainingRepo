@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\bin\Debug\AuthDictioanaryApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\bin\Debug\AuthDictioanaryApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\bin\Debug\AuthDictioanaryApp.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\obj\Debug\AuthDictioanaryApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\obj\Debug\AuthDictioanaryApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\obj\Debug\AuthDictioanaryApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\obj\Debug\AuthDictioanaryApp.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\AuthDictioanaryApp\AuthDictioanaryApp\obj\Debug\AuthDictioanaryApp.pdb

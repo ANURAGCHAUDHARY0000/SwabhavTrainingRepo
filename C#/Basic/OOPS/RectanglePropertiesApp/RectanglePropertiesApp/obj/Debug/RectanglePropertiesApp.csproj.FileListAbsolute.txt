@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\RectanglePropertiesApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\RectanglePropertiesApp.pdb

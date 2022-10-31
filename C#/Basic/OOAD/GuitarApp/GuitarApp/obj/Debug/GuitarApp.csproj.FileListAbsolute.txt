@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\bin\Debug\GuitarApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\obj\Debug\GuitarApp.exe
+D:\Swabhavtechlab\C#\Basic\OOAD\GuitarApp\GuitarApp\obj\Debug\GuitarApp.pdb

@@ -1,0 +1,17 @@
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\TicTacToeUnitTestProject.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\TicTacToeUnitTestProject.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\TicTacToelib.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\TicTacToelib.pdb
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.csproj.CopyComplete
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.dll
+D:\Swabhavtechlab\C#\Basic\OOAD\TicTacToeSln\TicTacToeUnitTestProject\obj\Debug\TicTacToeUnitTestProject.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNcf6j3zSXFxCm7L+LHTkkTbtCz5+wkYX2pak0ssMfAK3MoDT4pj++rfUV/pq49CIEzaGQh2+R1cXMWYYAYMeA==",
+  "success": true,
+  "projectFilePath": "D:\\Swabhavtechlab\\.NetCore\\GreetingSolution\\GreetingStandardLib\\GreetingStandardLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anurag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anurag\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

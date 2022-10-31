@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\bin\Debug\SRP_SolutionApp.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\bin\Debug\SRP_SolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\bin\Debug\SRP_SolutionApp.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\obj\Debug\SRP_SolutionApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\obj\Debug\SRP_SolutionApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\obj\Debug\SRP_SolutionApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\obj\Debug\SRP_SolutionApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_SolutionApp\SRP_SolutionApp\obj\Debug\SRP_SolutionApp.pdb

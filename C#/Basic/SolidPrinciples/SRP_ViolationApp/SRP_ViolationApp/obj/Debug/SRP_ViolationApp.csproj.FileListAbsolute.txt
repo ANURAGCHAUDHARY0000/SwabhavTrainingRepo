@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\bin\Debug\SRP_ViolationApp.exe.config
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\bin\Debug\SRP_ViolationApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\bin\Debug\SRP_ViolationApp.pdb
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\obj\Debug\SRP_ViolationApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\obj\Debug\SRP_ViolationApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\obj\Debug\SRP_ViolationApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\obj\Debug\SRP_ViolationApp.exe
+D:\Swabhavtechlab\C#\Basic\SolidPrinciples\SRP_ViolationApp\SRP_ViolationApp\obj\Debug\SRP_ViolationApp.pdb

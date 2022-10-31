@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\bin\Debug\MathDelegateApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\bin\Debug\MathDelegateApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\bin\Debug\MathDelegateApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\obj\Debug\MathDelegateApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\obj\Debug\MathDelegateApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\obj\Debug\MathDelegateApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\obj\Debug\MathDelegateApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\MathDelegateApp\MathDelegateApp\obj\Debug\MathDelegateApp.pdb

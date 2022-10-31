@@ -1,0 +1,10 @@
+.structure{
+    width:  50%;
+    background-color:cyan;
+    text-align: center;
+    margin: auto;
+    min-height: 50vh;
+    padding-top: 5%;
+    color: black;
+}
+

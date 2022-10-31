@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb

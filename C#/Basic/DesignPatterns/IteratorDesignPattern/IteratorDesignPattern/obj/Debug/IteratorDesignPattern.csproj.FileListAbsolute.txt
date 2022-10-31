@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe.config
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.pdb
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.exe
+D:\Swabhavtechlab\C#\Basic\DesignPatterns\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.pdb

@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\bin\Debug\CrudOperationOnHashSet.exe.config
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\bin\Debug\CrudOperationOnHashSet.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\bin\Debug\CrudOperationOnHashSet.pdb
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\obj\Debug\CrudOperationOnHashSet.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\obj\Debug\CrudOperationOnHashSet.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\obj\Debug\CrudOperationOnHashSet.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\obj\Debug\CrudOperationOnHashSet.exe
+D:\Swabhavtechlab\C#\Basic\Collection Framework\CrudOperationOnHashSet\CrudOperationOnHashSet\obj\Debug\CrudOperationOnHashSet.pdb

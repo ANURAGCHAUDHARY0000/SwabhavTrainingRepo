@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\bin\Debug\StudentEncapApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\bin\Debug\StudentEncapApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\bin\Debug\StudentEncapApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\obj\Debug\StudentEncapApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\obj\Debug\StudentEncapApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\obj\Debug\StudentEncapApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\obj\Debug\StudentEncapApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\StudentEncapApp\StudentEncapApp\obj\Debug\StudentEncapApp.pdb

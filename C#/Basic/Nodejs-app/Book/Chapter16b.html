@@ -1,0 +1,33 @@
+<html>
+    <body>
+        <script>
+           var person = {
+                getName: function () {
+                    return "Name is " + this.firstName + " " + this.lastName;
+                }
+            };          
+           //object.create --> it allows you to specify what your newly
+           // created object’s prototype will be
+            var funnyGuy = Object.create(person);
+            funnyGuy.firstName = "Kunal";
+            funnyGuy.lastName = "Patel"
+
+            var oldGuy = Object.create(person);
+            oldGuy.firstName = "Ravi";
+            oldGuy.lastName = "Shastri"
+
+            var DudeGuy = Object.create(person);
+            DudeGuy.firstName = "Anurag";
+            DudeGuy.lastName = "Chaudhary"
+        
+
+            document.writeln(funnyGuy.getName());
+            document.writeln(DudeGuy.getName());
+        
+        </script>
+        
+        
+    </body>
+</html>
+
+

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Closures</title>
+       
+        <style>
+            body {
+                    font-family: "Arial";
+                    font-size: 54px;
+                    padding: 50px;
+                    color: #0099FF;
+            }
+        </style>
+</head>
+<body>
+    <pre>
+        <script>
+        function show()
+        {
+            var i = "Krishna Loves Everyone";  
+            document.writeln(i);
+            function display()    //closure is an inner function that can access outer function's variable.
+            {
+                var j = "Krishna gives us aura";
+                document.writeln(j);
+                document.writeln(i);
+            }
+             display();
+        }
+        show();
+   
+        </script>
+     </pre>
+</body>
+</html>

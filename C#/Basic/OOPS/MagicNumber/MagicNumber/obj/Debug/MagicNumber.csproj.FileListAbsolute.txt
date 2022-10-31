@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\bin\Debug\MagicNumber.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\bin\Debug\MagicNumber.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\bin\Debug\MagicNumber.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\obj\Debug\MagicNumber.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\obj\Debug\MagicNumber.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\obj\Debug\MagicNumber.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\obj\Debug\MagicNumber.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\MagicNumber\MagicNumber\obj\Debug\MagicNumber.pdb

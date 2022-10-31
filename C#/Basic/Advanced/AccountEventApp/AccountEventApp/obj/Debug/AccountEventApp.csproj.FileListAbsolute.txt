@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\bin\Debug\AccountEventApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\bin\Debug\AccountEventApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\bin\Debug\AccountEventApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\obj\Debug\AccountEventApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\obj\Debug\AccountEventApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\obj\Debug\AccountEventApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\obj\Debug\AccountEventApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\AccountEventApp\AccountEventApp\obj\Debug\AccountEventApp.pdb

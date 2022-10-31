@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+<p>Slider</p>
+<input type = "range" min = "1" max = "100" value = "47" id = "sliderApp">
+<p>Selected Value : </p>
+<span id = "msgBox"></span>
+<script>
+var Slider = document.querySelector("#sliderApp");
+var msg = document.querySelector("#msgBox");
+msg.innerHTML = Slider.value;
+
+Slider.addEventListener("input" ,function(){
+    msg.innerHTML = this.value;
+}
+)
+
+</script>
+</body>
+</html>

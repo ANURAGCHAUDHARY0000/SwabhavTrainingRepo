@@ -1,0 +1,36 @@
+﻿@using StudentMVCApp.Models.ViewModel ;
+@model AddVM
+
+@{
+    ViewBag.Title = "Add Student";
+}
+
+<h2>Add Student</h2>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    @using (Html.BeginForm("Add", "Student", FormMethod.Post))
+    {
+        <p>
+            StudentId : @Html.TextBox("Id")
+        </p>
+        <p>
+            FirstName : @Html.TextBox("FirstName")
+        </p>
+        <p>
+            LastName : @Html.TextBox("LastName")
+        </p>
+        <p>
+            CGPA : @Html.TextBox("CGPA")
+        </p>
+
+        <input type="submit" />
+    }
+</body>
+</html>
+
+

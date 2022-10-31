@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.pdb

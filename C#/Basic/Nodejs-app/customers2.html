@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <body>
+            <div id = "container"></div>
+            <div id = "mumbai_container"></div>
+            <button type="button" id = "load" style="font: bold 14px Arial;">LoadList</button>
+            <button type="button" id = "load2" style="font: bold 14px Arial;">LoadTable</button>
+            <script>
+                var customers = [{id: 101,name: "Anu",location:"mumbai"},
+                {id: 102,name: "Ram",location:"mumbai"},
+                {id: 103,name: "Shyam",location:"mumbai"},
+                {id: 104,name: "Mohan",location:"pune"}];
+                customers.forEach((c)=> console.log(c));
+                customers.forEach((c)=> console.log(c.name));
+                var mumbai_customers = customers.filter((c)=> c.location.toLowerCase()=="mumbai");
+                mumbai_customers.push({id: 105,name: "Ravi",location:"mumbai"});
+                mumbai_customers.forEach((c)=> console.log(c));
+                var btn = document.querySelector("#load");
+                var btn2 = document.querySelector("#load2");
+                var container = document.querySelector("#container");
+                var mumbai_container = document.querySelector("#mumbai_container");
+                btn.addEventListener("click",()=> {
+                   let container1 = ``;
+                    customers.forEach(c=>{
+                        container1 += `<li>${c.name},${c.id},${c.location}</li>`;
+                    });
+                 //   console.log(container1);
+                    container.innerHTML = container1;
+                  //  container.innerText = container1;
+                    
+                });
+                btn2.addEventListener("click",()=>{
+                    var table = loadTable(customers);
+                    mumbai_container.innerHTML = table;
+                })
+                function getCustomerRow(c){
+                    return `<tr>
+                                <td> ${c.id}</td>
+                                <td> ${c.name}</td>
+                                <td> ${c.location}</td>
+                            </tr>`
+                }
+                function loadTable(customer){
+                var table = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan = "1">Id</th>
+                            <th colspan = "1">Name</th>
+                            <th colspan = "1">Location</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${customer.map((c) => getCustomerRow(c))}
+                    </tbody>
+                </table>`
+                return table;
+                }
+            </script>
+        </body>
+    </head>
+</html>

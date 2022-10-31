@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <h2> Observer </h2>
+        <button type = "button" id = 'redBtn' value = "red" >Red </button>
+        <button  type = "button" id = 'blueBtn' value = "blue">Blue</button>
+         
+
+        <script>
+            var redBtn = document.querySelector('#redBtn');
+            var blueBtn = document.querySelector('#blueBtn');
+
+            redBtn.addEventListener("click",changeBackgroundColor);
+            blueBtn.addEventListener("click",changeBackgroundColor);
+          
+          
+            function changeBackgroundColor(e)
+            {
+                document.bgColor = e.target.value.toString();
+                console.log(e);
+               
+            }
+
+        </script>
+    </body>
+</html>

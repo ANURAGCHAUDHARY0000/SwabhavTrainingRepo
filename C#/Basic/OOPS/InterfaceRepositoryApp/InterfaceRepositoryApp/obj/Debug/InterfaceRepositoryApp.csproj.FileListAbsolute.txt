@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\bin\Debug\InterfaceRepositoryApp.exe.config
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\bin\Debug\InterfaceRepositoryApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\bin\Debug\InterfaceRepositoryApp.pdb
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\obj\Debug\InterfaceRepositoryApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\obj\Debug\InterfaceRepositoryApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\obj\Debug\InterfaceRepositoryApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\obj\Debug\InterfaceRepositoryApp.exe
+D:\Swabhavtechlab\C#\Basic\OOPS\InterfaceRepositoryApp\InterfaceRepositoryApp\obj\Debug\InterfaceRepositoryApp.pdb

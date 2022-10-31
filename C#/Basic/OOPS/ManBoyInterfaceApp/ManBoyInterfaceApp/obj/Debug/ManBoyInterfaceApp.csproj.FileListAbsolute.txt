@@ -1,0 +1,3 @@
+D:\Swabhavtechlab\C#\Basic\OOPS\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\OOPS\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\ManBoyInterfaceApp.csproj.CoreCompileInputs.cache

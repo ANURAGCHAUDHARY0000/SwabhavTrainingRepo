@@ -1,0 +1,8 @@
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\bin\Debug\FunctionalProgrammingApp.exe.config
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\bin\Debug\FunctionalProgrammingApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\bin\Debug\FunctionalProgrammingApp.pdb
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\obj\Debug\FunctionalProgrammingApp.csproj.AssemblyReference.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\obj\Debug\FunctionalProgrammingApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\obj\Debug\FunctionalProgrammingApp.csproj.CoreCompileInputs.cache
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\obj\Debug\FunctionalProgrammingApp.exe
+D:\Swabhavtechlab\C#\Basic\Advanced\FunctionalProgrammingApp\FunctionalProgrammingApp\obj\Debug\FunctionalProgrammingApp.pdb

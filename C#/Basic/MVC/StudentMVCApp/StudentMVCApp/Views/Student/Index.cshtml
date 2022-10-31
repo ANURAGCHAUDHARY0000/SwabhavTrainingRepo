@@ -1,0 +1,34 @@
+﻿@using StudentMVCApp.Models.ViewModel 
+@model LogInVm
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>LogInForm</h1>
+
+<html>
+<head>
+  
+    <title>LogIn</title>
+</head>
+<body>
+    @using (Html.BeginForm("Edit", "Student", FormMethod.Post))
+    {
+      
+        <p>
+            UserName : @Html.TextBox("UserName")
+        </p>
+        <p>
+            UserPassword : @Html.TextBox("Password")
+        </p>
+      
+
+        <input type="submit" />
+    }
+</body>
+</html>
+
+
+

@@ -1,0 +1,42 @@
+<html>
+    <body>
+        <h2> Observer </h2>
+        <button type ="button" id = "btnHello"  style = "font: bold 14px Arial;">Hello</button>
+         
+
+        <script>
+            var button = document.querySelector("#btnHello");
+           // button.addEventListener("click",fnDevillistner);
+
+            button.addEventListener("click",function(e)
+            {
+                console.log("Devil is listening to you !!");
+                console.log(e);
+            }
+            )
+           
+            button.addEventListener("click",(e)=>
+            {
+                console.log("Devil is listening to you !!");
+                console.log(e);
+            })
+
+           // var button = document.querySelector("#btn1");
+            button.addEventListener("click",fnGodlistner);
+
+            function fnDevillistner(e)
+            {
+                console.log("Devil is listening to you !!");
+                console.log(e);
+              //  document.body.style.backgroundColor = "red";
+            }
+
+            function fnGodlistner()
+            {
+                console.log("God is listening to you !!");
+               // document.body.style.backgroundColor = "blue";
+            }
+
+        </script>
+    </body>
+</html>
